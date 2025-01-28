@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/813645100772155673/162d4c41d418427581f71d1babac7264/artifacts
+end_time: 1738027228167
+entry_point_name: ''
+experiment_id: '813645100772155673'
+lifecycle_stage: active
+run_id: 162d4c41d418427581f71d1babac7264
+run_name: chill-sponge-572
+run_uuid: 162d4c41d418427581f71d1babac7264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738027228155
+status: 3
+tags: []
+user_id: gabriel-caetano
