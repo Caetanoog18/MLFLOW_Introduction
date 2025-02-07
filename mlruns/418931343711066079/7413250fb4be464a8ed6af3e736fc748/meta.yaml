@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/418931343711066079/7413250fb4be464a8ed6af3e736fc748/artifacts
+end_time: 1738883361763
+entry_point_name: ''
+experiment_id: '418931343711066079'
+lifecycle_stage: active
+run_id: 7413250fb4be464a8ed6af3e736fc748
+run_name: charming-seal-934
+run_uuid: 7413250fb4be464a8ed6af3e736fc748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738883359973
+status: 3
+tags: []
+user_id: gabriel-caetano
